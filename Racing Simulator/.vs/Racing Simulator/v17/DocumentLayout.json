@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Racing Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|d:\\unityproject\\racing simulator\\assets\\scripts\\ui\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\ui\\escapemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\escapemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\checkpointsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpointsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\checkpointdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpointdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\finishchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\loadmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|D:\\UnityProject\\Racing Simulator\\assets\\scripts\\carsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEAF02D-BE87-9B60-D69A-C2B6D0028629}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carsounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarSounds.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CarSounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarSounds.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CarSounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarSounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:35:21.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadMenu.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\LoadMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadMenu.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\LoadMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:59:03.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinishChecker.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\FinishChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishChecker.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\FinishChecker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:10:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RespawnManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\RespawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RespawnManager.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\RespawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RespawnManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:13:24.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckpointData.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CheckpointData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckpointData.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CheckpointData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckpointData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:11:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckpointSaver.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CheckpointSaver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckpointSaver.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CheckpointSaver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckpointSaver.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:10:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T16:08:05.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T10:30:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscapeMenu.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\UI\\EscapeMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\EscapeMenu.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\UI\\EscapeMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\EscapeMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:06:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\UI\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SceneLoader.cs",
+              "ToolTip": "D:\\UnityProject\\Racing Simulator\\Assets\\Scripts\\UI\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:32:00.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
